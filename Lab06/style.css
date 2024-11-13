@@ -1,0 +1,15 @@
+button {
+    background-color: #007BFF;  /* Blue background */
+      color: white;               /* White text */
+      padding: 12px 24px;         /* Padding inside button */
+      font-size: 16px;            /* Text size */
+      border: none;               /* No border */
+      border-radius: 50px;        /* Rounded corners */
+      cursor: pointer;           /* Pointer on hover */
+      transition: all 0.3s ease;  /* Smooth transition effect */
+      box-shadow: 0 4px 8px rgba(0, 123, 255, 0.2);  /* Subtle shadow */
+}
+
+#question-div {
+    display: none;
+}
